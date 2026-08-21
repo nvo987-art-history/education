@@ -1207,7 +1207,8 @@ button {
   }
 
   .pillar-card:last-child {
-    border-bottom: 0;
+  border-right: 0;
+  border-bottom: 1px solid rgba(255,255,255,.14);
   }
 
   .pillar-card:nth-child(3) {
